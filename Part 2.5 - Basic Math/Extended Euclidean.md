@@ -1,0 +1,3 @@
+## Prerequisite
+
+- [[GCD & LCM]]

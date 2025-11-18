@@ -1,0 +1,4 @@
+## Prerequisite
+
+- [[Function]]
+- [[Linear Search]]
